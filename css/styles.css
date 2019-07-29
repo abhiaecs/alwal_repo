@@ -1,0 +1,18 @@
+label{
+ display: inline-block;
+ width: 300px;
+}
+select option {
+color:#000;
+}
+h4{
+color: white;
+background-color: black;
+font-style:bold;
+font-size: 1.875em;
+}
+h3{
+font-size:3vw;
+text-align: center;
+ font-variant: small-caps;
+}
